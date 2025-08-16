@@ -1,3 +1,6 @@
+# Developer
+Jasmine Gay
+
 # Planner iOS App
 
 A demo iOS app built with Swift and UIKit.  
@@ -9,6 +12,8 @@ This app includes a button that changes the background color of the screen to a 
 - Built using Swift and UIKit.
 - Runs on iOS 16+.
 
+## Time spent so far
+- 1hr
 
 ## Requirements
 - Xcode 16+
